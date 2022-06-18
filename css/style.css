@@ -8,11 +8,11 @@
 }
 @font-face {
     font-family: ralewaybold;
-    src: url../(fonts/fonts/Raleway-Bold.ttf);
+    src: url(../fonts/fonts/Raleway-Bold.ttf);
 }
 @font-face {
     font-family: ralewaymedium;
-    src: url../(fonts/fonts/Raleway-Medium.ttf);
+    src: url(../fonts/fonts/Raleway-Medium.ttf);
 }
 @font-face {
     font-family: ralewaylight;
@@ -20,7 +20,7 @@
 }
 @font-face {
     font-family: raleway regular;
-    src: url../(fonts/fonts/Raleway-SemiBold.ttf);
+    src: url(../fonts/fonts/Raleway-SemiBold.ttf);
 }
 @font-face {
     font-family: ralewaysemibold;
@@ -98,7 +98,7 @@ header.topbar.auth > div a{
     color: var(--pure);
     text-decoration: none;
 }
-header.topbar.icon a{
+header.topbar.icons a{
     margin-right: 10px;
     
 }
@@ -202,7 +202,7 @@ background: var(--heaven);
     }
 header.hero{
     height: 600px;
-    background-image: url(/images/images/hero.png);
+    background-image: url(../../images/images/hero.png);
     background-position: 0% 0%;
     background-repeat: no-repeat;
     overflow: hidden;
