@@ -202,7 +202,7 @@ background: var(--heaven);
     }
 header.hero{
     height: 600px;
-    background-image: url(./images/images/hero.png);
+    background-image: url(..../images/images/hero.png);
     background-position: 0% 0%;
     background-repeat: no-repeat;
     overflow: hidden;
